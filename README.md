@@ -1,33 +1,31 @@
-# PIS_B9IS123_CA2
-GROUP ASSIGNMENT
+# PIS_B9IS123
+GROUP ASSIGNMENT - CA 2
+
 #STUDENT ACADEMIC INFORMATION SYSTEMS.
 
-FUNCTIONAL REQUIREMENT
-1.student data details
-2.marks
-3.attendance %
-4.family background
-5.student health
+FUNCTIONAL REQUIREMENT:
+  1) Student Personal Details
+  2) Subjectwise Marks Data
+  3) Attendance
+  4) Economic Levels
+  5) Student Medical History
+  
+  
+NON-FUNCTIONAL REQUIREMENTS:
+  1) Teachers Personal Details
+  2) Teachers Subject Mastery Level
+  3) School Structures:
+      a) Timetable
+      b) Extra Curricular/Co Curricular Activities
+      c) Parents Investment (PTM, SMC, etc)
+      d) Teacher Trainings
 
 
+ASSIGNMENT DONE BY:
 
-NON-FUNCTIONAL REQUIREMENTS
-
-1.teachers
-2.subjects 
-3.school details
-4.management staff details
-5.capacity of the school
-6.hours of teaching
-
-
-
-
-GROUP ASSIGNMENT
-
-Sabitha Maram           - 10533048
-Abhilash Reddy          - 10532966
-Srikanth Shilesh Pasam  - 10387794
+  1) Sabitha Maram           - 10533048
+  2) Abhilash Reddy          - 10532966
+  3) Srikanth Shilesh Pasam  - 10387794
 
 
 
