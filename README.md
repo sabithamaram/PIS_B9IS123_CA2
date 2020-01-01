@@ -6,7 +6,7 @@ GROUP ASSIGNMENT - CA 2
 FUNCTIONAL REQUIREMENT:
   1) As the School Leader, I need to see a summary of the marks of each grade so that I can identify the areas of development for the respective grade.
   2) As a School Leader, I need to see a summaryof the marks scored by each student for a subject so that I can identify the areas of development for the respective subject teacher.
-  3) Attendance
+  3) As a Teacher, I need to see a summary of the marks scored by each student for my subject so that I can identify which students require more attention.
   4) Economic Levels
   5) Student Medical History
   
