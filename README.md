@@ -7,6 +7,7 @@ FUNCTIONAL REQUIREMENT:
   1) As the School Leader, I need to see a summary of the marks of each grade so that I can identify the areas of development for the respective grade.
   2) As a School Leader, I need to see a summaryof the marks scored by each student for a subject so that I can identify the areas of development for the respective subject teacher.
   3) As a Class Teacher, I need to see a summary of the marks scored by each student for all subjects so that I can give feedback to students individually.
+  4) As a Subject Teacher, I want to see a summary of the marks scored by each grade in my subject so that I can identify which grade requires extra classes scheduled.
   4) As a Parent, I need to see a summary of the marks scored by my child so that I can keep a track of his/her academic progress.
   5) As a stakeholder, I need to see a summary of the growth of a classroom over 3 years in the form of graph so that I can identify the progress of the school easily.
   
