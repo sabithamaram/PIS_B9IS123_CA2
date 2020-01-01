@@ -1,12 +1,14 @@
-﻿Order,Name,Gender,RC,Listening,Writing,Math,
-1,Ammaji ,Female,0.5,1.0, 1.1 ,62%,
-2,Ashwini ,Female,0.5,,  ,,
-3,Komal ,Female,,0.5, 1.0 ,27%,
-5,Pooja ,Female,,,  ,,
-4,Preethi ,Female,0.2,1.5, 1.4 ,54%,
-6,Maryam ,Female,0.5,2.5, 1.5 ,26%,
-7,Mubeen ,Female,0.5,3.0, 1.9 ,59%,
-8,Ruby ,Female,,1.0, 0.8 ,44%,
-9,Soni ,Female,,0.5, 0.8 ,35%,
-11,Abhishek ,Male,0.2,0.5, 0.7 ,32%,
-12,Altamas ,Male,,0.5, 0.7 ,34%,
+﻿Order,Name,Gender,RC,Listening,Writing,Math
+1,Ammaji ,Female,0.5,1,1.1,62%
+2,Ashwini ,Female,0.5,,  ,
+3,Komal ,Female,,0.5,1,27%
+5,Pooja ,Female,,,  ,
+4,Preethi ,Female,0.2,1.5,1.4,54%
+6,Maryam ,Female,0.5,2.5,1.5,26%
+7,Mubeen ,Female,0.5,3,1.9,59%
+8,Ruby ,Female,,1,0.8,44%
+9,Soni ,Female,,0.5,0.8,35%
+10,Deevija ,Female,0.5,,  ,
+11,Abhishek ,Male,0.2,0.5,0.7,32%
+12,Altamas ,Male,,0.5,0.7,34%
+13,Bhola ,Male,0.5,1.0, 1.9 ,42%
