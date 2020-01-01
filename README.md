@@ -1,7 +1,7 @@
+#STUDENT ACADEMIC INFORMATION SYSTEMS.
+
 PIS_B9IS123
 GROUP ASSIGNMENT - CA 2
-
-#STUDENT ACADEMIC INFORMATION SYSTEMS.
 
 Teach For India organization works in the education sector specifically targetting low-income private schools or under-resourced schools. They place motivated and trained individuals into these schools in order to deal with the education inequity in the country. In order to make this mammoth process effecient, they have requested us to develop an application which can use their existing database in the form of .xlsx files to analyze and intepret student data so that the organization and the school can take necessary steps to provide excellent education to all children.
 
