@@ -3,6 +3,8 @@ GROUP ASSIGNMENT - CA 2
 
 #STUDENT ACADEMIC INFORMATION SYSTEMS.
 
+Teach For India organization works in the education sector specifically targetting low-income private schools or under-resourced schools. They place motivated and trained individuals into these schools in order to deal with the education inequity in the country. In order to make this mammoth process effecient, they have requested us to develop an application which
+
 FUNCTIONAL REQUIREMENT:
   1) As the School Leader, I need to see a summary of the marks of each grade so that I can identify the areas of development for the respective grade.
   2) As a School Leader, I need to see a summaryof the marks scored by each student for a subject so that I can identify the areas of development for the respective subject teacher.
