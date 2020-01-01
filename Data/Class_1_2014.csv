@@ -1,40 +1,40 @@
-﻿Order,STUDENTS - First Last,Gender of Student,2013-14 EOY RC Level,2014 EOY RC Level,2014 EOY Writing level,2014 EOY Math
-1,Ahmed,Male,0.2,,,
-2,Ayan,Male,0.2,0,0.0,9%
-3,Ayesha Fatima 1,Female,0.2,0.5,1.1,19%
-4,Ayesha Fatima.,Female,0.0,0.5,0.6,21%
-5,Dinesh,Male,,,,
-6,Faisal Pasha,Male,0.5,0.2,1.9,33%
-7,Firdous Banu,Female,0.5,,,
-8,Javeen,Male,0.5,1.5,2.9,38%
-9,Kuhrshid,Male,1.0,1.5,2.4,58%
-10,Md.Mukram,Female,0.5,2,2.6,41%
-11,Mirza Baig,Female,0.0,,,
-12,Mohd. Azhar,Male,0.5,,,
-13,Mohd. Saadiq,Male,0.5,1.5,2.4,54%
-14,Mohmmed Ali,Male,0.2,0.5,0.7,37%
-15,Moinuddin,Male,0.0,0.5,0.6,15%
-16,Nayyar Fatima,Female,0.2,0.2,0.6,13%
-17,Nazreen Begum,Female,,0.5,1.0,26%
-18,Nida Fatima,Female,0.5,1.5,2.9,44%
-19,Nikith Tabasuman,Female,0.2,0.2,1.0,15%
-20,Saba Begum,Female,0.5,0.5,1.2,18%
-21,Sana Fimal,Female,0.2,,,
-22,Sayyum,Female,0.5,1.5,1.9,46%
-23,Shaik Ikram,Male,0.2,0.2,1.2,40%
-24,Sidra Begum,Female,0.5,0.5,0.9,27%
-25,Syed Ashfaq,Male,0.2,2,2.9,38%
-26,Tabassam Begum,Female,0.5,1.5,2.6,49%
-27,Arifa,Female,0.0,0.5,0.5,27%
-28,Saniya,Female,0.5,1,2.7,35%
-29,Neha Begum,Female,1.0,1.5,2.1,54%
-30,Mahejabeen,Female,0.0,0.5,1.4,19%
-31,Sana Begum 2,Female,0.5,2.5,2.6,58%
-32,Mehak ,Female,0.2,0.2,0.6,17%
-33,Farheen ,Female,0.5,1,0.7,21%
-34,Mohd Ibrahim,Male,,0.5,2.0,44%
-35,Saba 1,Female,1.5,3,2.9,42%
-36,Imran Ali,Male,0.5,1,,24%
-37,Imtiaz,Male,0.5,,1.1,16%
-38,Aquaib,Male,,2.5,2.9,28%
-39,Ghouse,Male,,,,
+﻿Order,Name,Gender,RC,Listening,Writing,Math
+1,Ahmed,Male,0.2,0.2,0,0.10
+2,Ayan,Male,0.2,0,0,0.09
+3,Ayesha Fatima 1,Female,0.2,0.5,1.1,0.19
+4,Ayesha Fatima.,Female,0,0.5,0.6,0.21
+5,Dinesh,Male,0.2,0.2,1,0.55
+6,Faisal Pasha,Male,0.5,0.2,1.9,0.33
+7,Firdous Banu,Female,0.5,0.3,2.5,0.23
+8,Javeen,Male,0.5,1.5,2.9,0.38
+9,Kuhrshid,Male,1,1.5,2.4,0.58
+10,Md.Mukram,Female,0.5,2,2.6,0.41
+11,Mirza Baig,Female,0,1,2,0.43
+12,Mohd. Azhar,Male,0.5,2,3,0.11
+13,Mohd. Saadiq,Male,0.5,1.5,2.4,0.54
+14,Mohmmed Ali,Male,0.2,0.5,0.7,0.37
+15,Moinuddin,Male,0,0.5,0.6,0.15
+16,Nayyar Fatima,Female,0.2,0.2,0.6,0.13
+17,Nazreen Begum,Female,0.5,0.5,1,0.26
+18,Nida Fatima,Female,0.5,1.5,2.9,0.44
+19,Nikith Tabasuman,Female,0.2,0.2,1,0.15
+20,Saba Begum,Female,0.5,0.5,1.2,0.18
+21,Sana Fimal,Female,0.2,0.3,1.1,0.15
+22,Sayyum,Female,0.5,1.5,1.9,0.46
+23,Shaik Ikram,Male,0.2,0.2,1.2,0.40
+24,Sidra Begum,Female,0.5,0.5,0.9,0.27
+25,Syed Ashfaq,Male,0.2,2,2.9,0.38
+26,Tabassam Begum,Female,0.5,1.5,2.6,0.49
+27,Arifa,Female,0,0.5,0.5,0.27
+28,Saniya,Female,0.5,1,2.7,0.35
+29,Neha Begum,Female,1,1.5,2.1,0.54
+30,Mahejabeen,Female,0,0.5,1.4,0.19
+31,Sana Begum 2,Female,0.5,2.5,2.6,0.58
+32,Mehak ,Female,0.2,0.2,0.6,0.17
+33,Farheen ,Female,0.5,1,0.7,0.21
+34,Mohd Ibrahim,Male,0.5,0.5,2,0.44
+35,Saba 1,Female,1.5,3,2.9,0.42
+36,Imran Ali,Male,0.5,1,2,0.24
+37,Imtiaz,Male,0.5,0.5,1.1,0.16
+38,Aquaib,Male,1,2.5,2.9,0.28
+39,Ghouse,Male,0.2,0.5,1.5,0.23
