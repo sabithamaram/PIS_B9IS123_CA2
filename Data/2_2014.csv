@@ -1,4 +1,4 @@
-﻿Order,Name,Gender,RC,Listening,Writing,Math
+Order,Name,Gender,RC,Listening,Writing,Math
 1,Shai,Male,0,,1.2,0.23
 2,Akhil,Male,0.2,,,
 3,Eshwar,Male,0.5,1.5,1,0.52
@@ -35,4 +35,4 @@
 34,Sofiya,Female,2,1,2.3,0.43
 35,Maheen,Female,,1.5,,0.07
 36,Anuradha,Female,1.5,1,,0.45
-37,Rahman,Male,1,0.5,,0.10
+37,Rahman,Male,1,0.5,,0.1
