@@ -1,26 +1,26 @@
 ﻿Order,Name,Gender,RC,Listening,Writing,Math
 1,Ammaji ,Female,0.5,1,1.1,62%
-2,Ashwini ,Female,0.5,,  ,
-3,Komal ,Female,,0.5,1,27%
-5,Pooja ,Female,,,  ,
+2,Ashwini ,Female,0.5,1,1.2,35%
+3,Komal ,Female,0.5,0.5,1,27%
+5,Pooja ,Female,0.2,0.4,1.4,28%
 4,Preethi ,Female,0.2,1.5,1.4,54%
 6,Maryam ,Female,0.5,2.5,1.5,26%
 7,Mubeen ,Female,0.5,3,1.9,59%
-8,Ruby ,Female,,1,0.8,44%
-9,Soni ,Female,,0.5,0.8,35%
-10,Deevija ,Female,0.5,,  ,
+8,Ruby ,Female,0.5,1,0.8,44%
+9,Soni ,Female,0.4,0.5,0.8,35%
+10,Deevija ,Female,0.5,0.4,0.9,42%
 11,Abhishek ,Male,0.2,0.5,0.7,32%
-12,Altamas ,Male,,0.5,0.7,34%
-13,Bhola ,Male,0.5,1.0, 1.9 ,42%
-14,Ankith ,Male,0.5,3.0, 1.6 ,81%
-15,Omer ,Male,0.5,2.0, 1.5 ,72%
-16,Saifuddin ,Male,1.5,2.5, 1.3 ,74%
-17,Yash ,Male,,,  ,
-18,G.Krishna ,Male,0.2,,  ,
-19,P. Abhishek ,Male,0.5,1.0, 0.8 ,34%
-20,Pandurang ,Male,0.5,4.0, 2.6 ,81%
-21,Shiva ,Male,0.2,1.0, 1.4 ,48%
-22,Akash ,Male,0.5,1.0, 1.1 ,41%
-23,Rahil Khan ,Male,0.5,1.5, 1.6 ,66%
-24,Summaiya ,Male,,1.5, 1.2 ,43%
-25,Neeraj ,Male,0.5,3.0, 1.7 ,66%
+12,Altamas ,Male,0.3,0.5,0.7,34%
+13,Bhola ,Male,0.5,1,1.9,42%
+14,Ankith ,Male,0.5,3,1.6,81%
+15,Omer ,Male,0.5,2,1.5,72%
+16,Saifuddin ,Male,0.4,2.5,1.3,74%
+17,Yash ,Male,0.6,2.6,1.5,56%
+18,G.Krishna ,Male,0.2,2.4,1.6,55%
+19,P. Abhishek ,Male,0.5,1,0.8,34%
+20,Pandurang ,Male,0.5,4,2.6,81%
+21,Shiva ,Male,0.2,1,1.4,48%
+22,Akash ,Male,0.5,1,1.1,41%
+23,Rahil Khan ,Male,0.5,1.5,1.6,66%
+24,Summaiya ,Male,0.4,1.5,1.2,43%
+25,Neeraj ,Male,0.5,3,1.7,66%
